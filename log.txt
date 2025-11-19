@@ -1,0 +1,13 @@
+251117
+
+install numpy
+install scipy
+install pandas
+install matplotlib
+install ipykernal
+
+---
+
+251118
+
+mph file generated has the geometry of fiber and solute too closed to each other

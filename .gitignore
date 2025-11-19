@@ -1,0 +1,5 @@
+.venv/
+export_test/
+.venv_old/
+run_test/
+exported_geometry/
