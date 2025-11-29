@@ -2,4 +2,7 @@
 export_test/
 .venv_old/
 run_test/
+run_test2/
 exported_geometry/
+run_ref/
+archive/
